@@ -15,3 +15,12 @@ function App() {
 }
 
 export default App;
+
+{/* <div className="relative">
+                    <img src={Ellipse1} alt="Top-pictures" className="z-0" />
+                    <img
+                        src={Ellipse2}
+                        alt="Top-pictures"
+                        className="absolute top-[1px] left-[1px] z-10 transform rotate-[-1deg]"
+                    />
+                </div> */}
