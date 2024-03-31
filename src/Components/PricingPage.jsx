@@ -9,7 +9,7 @@ const PricingPage = () => {
         <div class="flex flex-col min-h-screen bg-white">
             <div class="flex-grow bg-buttonc h-16">
                 <div className='flex flex-col justify-center items-center'>
-                    <img src={man} alt="man" className='w-50 h-40 mt-6 md:w-50 md:h-32 md:mt-5' />
+                    <img src={man} alt="man" className='w-50 h-40 mt-4 md:w-50 md:h-32 md:mt-5' />
                     <h1 className='font-Poppins font-extrabold text-white text-3xl pt-5'>Premium PRO</h1>
                     <h1 className='font-Poppins font-extrabold text-white text-3xl leading-10'>$329</h1>
                     <p className='font-Poppins font-medium text-white text-lg'>billed just once</p>
