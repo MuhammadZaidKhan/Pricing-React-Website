@@ -19,7 +19,7 @@ const Home = () => {
 
                 <div className='flex flex-col justify-center items-center relative md:ml-16'>
 
-                    <img src={mobile} alt="mobile" className="w-68 h-52 pl-1 mt-12 ml-11 md:w-78 md:h-50 md:mt-[-75px]" />
+                    <img src={mobile} alt="mobile" className="w-68 h-52 ml-11 md:w-78 md:h-50 md:mt-[-75px]" />
 
                     <h1 className='font-Poppins font-semibold md:text-4xl text-3xl pt-16 pl-12 md:px-12 md:pt-6'>Simple pricing for your business</h1>
                     <p className='font-Poppins font-normal pt-8 md:pt-5 px-12 pr-20'>Plans that are carefully crafted to suit your business.</p>
